@@ -68,3 +68,47 @@ main {
     flex-direction: column;
     justify-content: center;
 }
+main h2{
+    font-size: 2rem;
+}
+main span{
+    font-size: 0.75rem;
+}
+
+.moviepegi16{
+    border: 1px solid black;
+    border-radius: 15%;
+    padding: 0 0.19rem;
+    margin: 0 1rem 0 0;
+
+}
+.movieimdbrate{
+    font-weight: bold;
+    
+}
+.movieimdb{
+    color: rgb(64, 60, 60);
+    margin: 0 1rem 0 0;
+}
+.movietime{
+    font-weight: bold;
+}
+.description{
+    width: 50%;
+}
+p{
+    font-size: 0.8rem;
+}
+.sgtinfo span, .sgtinfo p{
+    
+    margin: 1vh 0;
+    font-weight: bold;
+    font-size: 0.8rem;
+
+}
+.text-red{
+    color: red;
+}
+.btn{
+    margin-top:2vh;
+}
